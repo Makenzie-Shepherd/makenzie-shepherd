@@ -1,12 +1,7 @@
-### Makenzie M Shepherd
-*I am a MIS student at The University of Texas at Austin interested in business, technology, and psychology*
-
-I am from Houston, Texas and I am here in Austin to get a college degree.
+## 👋 &nbsp;Hey there! I'm Makenzie
 
 ![MakHeadshot](https://user-images.githubusercontent.com/89611221/153029737-2d81ddfe-cc70-4ee0-ae97-0cf834b1d5a8.JPG)
 
-
-## 👋 &nbsp;Hey there! I'm Makenzie
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -34,17 +29,15 @@ I am from Houston, Texas and I am here in Austin to get a college degree.
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=makenzie-shepherd&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=makenzie-shepherd&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/makenzieshepherd"><img src="https://img.shields.io/badge/-Makenzie%20Shepherd%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/makenzieshepherd"><img src="https://img.shields.io/badge/-Makenzie%20Shepherd%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:makenzie.shepherd@utexas.edu"><img src="https://img.shields.io/badge/-makenzie.shepherd@utexas.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/makenzie_shepherd"><img src="https://img.shields.io/badge/-@makenzie_shepherd-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
